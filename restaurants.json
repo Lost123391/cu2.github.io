@@ -1,0 +1,16 @@
+[
+   {
+    "restaurantName": "thunder bolt pizza",
+    "restaurantImage":"https://theawesomedaily.com/wp-content/uploads/2016/09/pictures-of-pizza-23-1.jpg",
+	"restaurantDescription":"With pizzas made as fast as the thunder bolt ride this unique pizzeria will leave you with whiplash",
+	"restaurantMenu":"pepporoni pizza, vegetable pizza, hawaian pizza, four cheese pizza, mexican pizza"
+   },
+   {
+    "restaurantName": "frosty shakes",
+    "restaurantImage":"https://media.istockphoto.com/id/985263026/photo/milk-shake-with-sprinkles-around-the-rim.jpg?s=2048x2048&w=is&k=20&c=sg6sUenFa6EYl7zHPvL-ws4hnrNVNDePpcPkjyU7_pM=",
+	"restaurantDescription":"Just like the frosty ride these milkshakes will leave you shaking with excitement!",
+	"restaurantMenu":"chocolate milkshake, strawberry milkshake, banana milkshake, blueberry milkshake"
+	}
+]
+	
+   
